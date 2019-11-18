@@ -6,7 +6,8 @@ Sample files shared at the architect day(s) 19th-20th of November
 
 Here are some sample KQL queries used in demos:
 
-**Note**: `Perf` will be moved to soon*-ish*.
+**Note**: `Perf` will be moved to `InsightsMetrics` 
+[soon](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-ga-release-faq#how-will-this-change-affect-my-alert-rules).
 
 ```sql
 Perf
